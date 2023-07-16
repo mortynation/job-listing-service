@@ -3,3 +3,8 @@ spring:
     mongodb:
       uri: mongodb+srv://root:root@cluster0.opbu4eh.mongodb.net/?retryWrites=true&w=majority
       database: morty
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+      
+
