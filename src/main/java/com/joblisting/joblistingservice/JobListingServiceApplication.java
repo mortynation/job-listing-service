@@ -17,7 +17,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
         info = @Info(
                 title = "Job Listing Service",
                 version = "1.0.0",
-                description = "Enable's users to add and retrieve job postings",
+                description = "Enables users to add and retrieve job postings",
                 termsOfService = "nope",
                 contact = @Contact(
                         name = "Nivaas",
